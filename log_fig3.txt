@@ -1,0 +1,12 @@
+nohup: ignoring input
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
+aviso: nu*tlim = 22000 se aproxima de MAX_SPK = 24000; aumente MAX_SPK
